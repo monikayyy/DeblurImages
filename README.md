@@ -1,1 +1,1 @@
-# Deblurring-Images-with-Deep-Learning
+# Deblurring Images with Deep Learning
