@@ -57,12 +57,19 @@ Take-aways
 
 This project uses the REDS dataset. You will need to download it and place it in a data directory.
 
+***
+
 ##Training
 
 To train a model, run the train.py script. You can specify the model architecture, loss function, and other hyperparameters in the config file.
+
+***
     
 python src/train.py
   
+***
 
 ## License
 MIT – feel free to build on top, but please give credit.
+
+***
