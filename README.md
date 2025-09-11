@@ -36,7 +36,33 @@ Take-aways
 -  Lightweight DeepDeblur benefited more in LPIPS than heavy Restormer in this setting.  
 
 ***
+## File Descriptions
+
+    src/requirements.txt: Install packages and dependencies for the env.
+
+    src/config.py: Set arameters to configure the training model.
+
+    src/train.py: Main script for training the deblurring models.
+
+    src/models: Defines the DeepDeblur and Restormer model architectures.
+
+    src/dataset.py: Contains the data loader for the REDS dataset.
+
+    src/evaluate.py: Calculates the PSNR, SSIM, and LPIPS evaluation metrics.
+
+    src/utils.py: Provides utility functions for logging, saving checkpoints, etc.
 ***
+
+##Data
+
+This project uses the REDS dataset. You will need to download it and place it in a data directory.
+
+##Training
+
+To train a model, run the train.py script. You can specify the model architecture, loss function, and other hyperparameters in the config file.
+    
+python src/train.py
+  
 
 ## License
 MIT – feel free to build on top, but please give credit.
