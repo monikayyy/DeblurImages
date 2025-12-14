@@ -3,7 +3,7 @@ Experiments & code for adding a ViT–based local perceptual loss to lightweight
 
 ***
 
-## What’s here?
+## Brief
 This sub-repo contains everything I did for the **Perceptual Loss** study that became part of our larger video-restoration project:
 
 1. Implemented a **local MAE perceptual loss** (LPL) that mixes  
