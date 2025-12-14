@@ -53,15 +53,15 @@ Take-aways
     src/utils.py: Provides utility functions for logging, saving checkpoints, etc.
 ***
 
-##Data
+## Data
 
-This project uses the REDS dataset. You will need to download it and place it in a data directory.
+This project uses the REDS dataset. You will need to download it and place it in a data directory, like "/Users/monikayadav/Downloads/566/DEBLUR/data/REDS/" in this project.
 
 ***
 
-##Training
+## Training
 
-To train a model, run the train.py script. You can specify the model architecture, loss function, and other hyperparameters in the config file.
+To train one of the models, run the train.py script. You can specify the model architecture, loss function, and other hyperparameters in the config file.
 
 ***
     
