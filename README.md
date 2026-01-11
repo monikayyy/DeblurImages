@@ -55,7 +55,7 @@ Take-aways
 
 ## Data
 
-This project uses the REDS dataset. You will need to download it and place it in a data directory, like "/Users/monikayadav/Downloads/566/DEBLUR/data/REDS/" in this project.
+This project uses the REDS dataset. You will need to download it and place it in a data directory, like "path-to-project-folder/data/REDS/" in this project.
 
 ***
 
